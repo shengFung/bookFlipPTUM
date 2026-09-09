@@ -107,8 +107,6 @@ Images and GIF frames are resized to `1280 x 720` when the program starts. Prepa
 6. Test both swipe directions before opening the exhibition.
 7. Move the **Book** window to the projector and press `F` for fullscreen.
 
-## Troubleshooting
-
 ### Camera does not open
 
 - Check that the webcam is connected and not being used by another application.
